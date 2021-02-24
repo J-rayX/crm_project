@@ -1,6 +1,6 @@
 # Django REST API with PostgreSQL: A CRUD App
 
-A Django RESTful API with PostgreSQL database for my LogRocket tutorial: [Django Rest Framework with PostgreSQL: A CRUD Tutorial](https://blog.logrocket.com/django-rest-framework-with-postgresql/).
+A Django RESTful API with PostgreSQL database for my tutorial: [Django Rest Framework with PostgreSQL: A CRUD Tutorial](https://jkaylight.medium.com/django-rest-framework-with-postgresql-a-crud-tutorial-8a34283e9c12).
 
 ### To Run on Localhost
 
